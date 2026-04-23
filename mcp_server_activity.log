@@ -1,0 +1,410 @@
+2026-03-14 12:34:39,981 | INFO | Loaded 35 procedures from database
+2026-03-14 12:34:57,302 | INFO | Loaded 35 procedures from database
+2026-03-14 12:35:02,039 | INFO | Processing request of type ListResourcesRequest
+2026-03-14 12:35:08,166 | INFO | Processing request of type ListToolsRequest
+2026-03-14 12:35:31,790 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:35:41,921 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:35:41,924 | WARNING | Procedure not found: get_recent_users
+2026-03-14 12:35:41,924 | ERROR | Procedure execution failed (get_recent_users): Procedure get_recent_users not found in database
+2026-03-14 12:37:06,520 | INFO | Loaded 35 procedures from database
+2026-03-14 12:38:08,834 | INFO | Loaded 35 procedures from database
+2026-03-14 12:38:22,477 | INFO | Processing request of type ListToolsRequest
+2026-03-14 12:38:38,565 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:39:03,607 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:40:09,157 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:40:09,161 | WARNING | Procedure not found: get_recent_users
+2026-03-14 12:40:09,161 | ERROR | Procedure execution failed (get_recent_users): Procedure get_recent_users not found in database
+2026-03-14 12:48:43,238 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:48:43,247 | WARNING | Procedure not found: get_recent_users
+2026-03-14 12:48:43,247 | ERROR | Procedure execution failed (get_recent_users): Procedure get_recent_users not found in database
+2026-03-14 12:50:22,874 | INFO | Loaded 36 procedures from database
+2026-03-14 12:50:37,318 | INFO | Loaded 36 procedures from database
+2026-03-14 12:50:43,696 | INFO | Processing request of type ListToolsRequest
+2026-03-14 12:50:49,055 | INFO | Processing request of type CallToolRequest
+2026-03-14 12:50:49,110 | INFO | Calling procedure: get_recent_users
+2026-03-14 12:50:49,112 | INFO | get_recent_users returned 2 rows
+2026-03-14 12:50:49,115 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-16 04:38:58,352 | INFO | Loaded 36 procedures from database
+2026-03-16 04:39:09,331 | INFO | Loaded 36 procedures from database
+2026-03-16 04:39:16,631 | INFO | Processing request of type ListToolsRequest
+2026-03-16 04:39:23,793 | INFO | Processing request of type CallToolRequest
+2026-03-16 04:39:23,823 | INFO | Calling procedure: get_recent_users
+2026-03-16 04:39:23,824 | INFO | get_recent_users returned 2 rows
+2026-03-16 04:39:23,825 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-16 04:41:52,958 | INFO | Loaded 36 procedures from database
+2026-03-16 04:46:30,435 | INFO | Loaded 36 procedures from database
+2026-03-16 04:46:52,263 | INFO | Loaded 36 procedures from database
+2026-03-16 04:47:00,812 | INFO | Loaded 36 procedures from database
+2026-03-16 04:47:04,986 | INFO | Processing request of type ListToolsRequest
+2026-03-16 04:47:55,250 | INFO | Processing request of type ListResourcesRequest
+2026-03-16 05:11:38,009 | INFO | Loaded 36 procedures from database
+2026-03-16 05:11:58,061 | INFO | Loaded 36 procedures from database
+2026-03-16 05:12:08,228 | INFO | Processing request of type ListToolsRequest
+2026-03-16 05:12:21,412 | INFO | Processing request of type CallToolRequest
+2026-03-16 05:12:29,171 | INFO | Processing request of type CallToolRequest
+2026-03-16 05:12:29,234 | INFO | Calling procedure: get_recent_users
+2026-03-16 05:12:29,240 | INFO | get_recent_users returned 2 rows
+2026-03-16 05:12:29,242 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-16 05:12:57,303 | INFO | Loaded 35 procedures from database
+2026-03-16 05:13:15,849 | INFO | Loaded 35 procedures from database
+2026-03-16 05:13:20,518 | INFO | Processing request of type ListToolsRequest
+2026-03-16 05:13:27,929 | INFO | Processing request of type CallToolRequest
+2026-03-16 05:13:27,935 | WARNING | Procedure not found: get_recent_users
+2026-03-16 05:13:27,936 | ERROR | Procedure execution failed (get_recent_users): Procedure get_recent_users not found in database
+2026-03-17 06:58:28,634 | INFO | Loaded 35 procedures from database
+2026-03-17 06:59:04,391 | INFO | Loaded 35 procedures from database
+2026-03-17 06:59:25,991 | INFO | Loaded 35 procedures from database
+2026-03-17 06:59:39,669 | INFO | Loaded 35 procedures from database
+2026-03-17 07:40:54,726 | INFO | Loaded 35 procedures from database
+2026-03-17 07:41:13,476 | INFO | Loaded 35 procedures from database
+2026-03-17 07:41:19,492 | INFO | Processing request of type ListToolsRequest
+2026-03-17 07:42:15,511 | INFO | Processing request of type CallToolRequest
+2026-03-17 07:43:11,070 | INFO | Loaded 35 procedures from database
+2026-03-17 07:43:48,574 | INFO | Loaded 35 procedures from database
+2026-03-17 07:44:03,168 | INFO | Loaded 35 procedures from database
+2026-03-17 07:44:07,095 | INFO | Processing request of type ListToolsRequest
+2026-03-17 07:44:19,072 | INFO | Processing request of type CallToolRequest
+2026-03-17 07:44:19,128 | INFO | Calling procedure: procONE
+2026-03-17 07:44:19,425 | INFO | procONE returned 0 rows
+2026-03-17 07:44:19,426 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 07:46:42,854 | INFO | Processing request of type CallToolRequest
+2026-03-17 07:46:42,912 | INFO | Calling procedure: procONE
+2026-03-17 07:46:42,989 | INFO | procONE returned 1000 rows
+2026-03-17 07:46:42,993 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 07:50:53,521 | INFO | Processing request of type CallToolRequest
+2026-03-17 07:50:53,576 | INFO | Calling procedure: task2_sakshi
+2026-03-17 07:50:53,577 | ERROR | Procedure execution failed (task2_sakshi): 1318 (42000): Incorrect number of arguments for PROCEDURE mcp_demo.task2_sakshi; expected 1, got 0
+2026-03-17 11:06:34,599 | INFO | Loaded 35 procedures from database
+2026-03-17 11:06:34,633 | INFO | Loaded metadata for 28 procedures
+2026-03-17 11:11:55,117 | INFO | Loaded 35 procedures from database
+2026-03-17 11:11:55,154 | INFO | Loaded metadata for 28 procedures
+2026-03-17 11:12:38,552 | INFO | Loaded 35 procedures from database
+2026-03-17 11:12:38,581 | INFO | Loaded metadata for 28 procedures
+2026-03-17 11:14:34,735 | INFO | Loaded 35 procedures from database
+2026-03-17 11:14:34,761 | INFO | Loaded metadata for 28 procedures
+2026-03-17 11:14:34,798 | INFO | Registered 28 procedure tools
+2026-03-17 11:14:51,729 | INFO | Loaded 35 procedures from database
+2026-03-17 11:14:51,754 | INFO | Loaded metadata for 28 procedures
+2026-03-17 11:14:51,794 | INFO | Registered 28 procedure tools
+2026-03-17 11:15:00,938 | INFO | Processing request of type ListToolsRequest
+2026-03-17 11:16:14,265 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:16:14,268 | INFO | Calling procedure procTWO
+2026-03-17 11:16:14,291 | INFO | Calling procedure: procTWO
+2026-03-17 11:16:14,296 | INFO | procTWO returned 0 rows
+2026-03-17 11:16:14,297 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 11:17:03,183 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:17:03,184 | INFO | Calling procedure task2_sakshi
+2026-03-17 11:17:03,203 | INFO | Calling procedure: task2_sakshi
+2026-03-17 11:17:03,217 | INFO | task2_sakshi returned 15 rows
+2026-03-17 11:17:03,218 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 11:17:48,190 | INFO | Processing request of type ListToolsRequest
+2026-03-17 11:17:54,196 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:18:11,902 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:18:26,912 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:35:40,658 | INFO | Registered 35 procedure tools
+2026-03-17 11:35:52,056 | INFO | Registered 35 procedure tools
+2026-03-17 11:36:16,997 | INFO | Processing request of type ListResourcesRequest
+2026-03-17 11:36:22,408 | INFO | Processing request of type ListToolsRequest
+2026-03-17 11:36:30,091 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:36:41,384 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:37:17,681 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:45:09,055 | INFO | Registered 35 procedure tools
+2026-03-17 11:45:14,234 | INFO | Registered 35 procedure tools
+2026-03-17 11:45:27,158 | INFO | Registered 35 procedure tools
+2026-03-17 11:45:42,342 | INFO | Processing request of type ListToolsRequest
+2026-03-17 11:45:56,714 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:46:31,791 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:49:55,722 | INFO | Registered 35 procedure tools
+2026-03-17 11:50:48,715 | INFO | Registered 35 procedure tools
+2026-03-17 11:50:52,579 | INFO | Registered 35 procedure tools
+2026-03-17 11:51:06,554 | INFO | Registered 35 procedure tools
+2026-03-17 11:51:08,028 | INFO | Processing request of type ListToolsRequest
+2026-03-17 11:51:14,715 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:51:26,976 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:51:34,320 | INFO | Processing request of type CallToolRequest
+2026-03-17 11:51:50,379 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:28:56,774 | INFO | Registered 35 procedure tools
+2026-03-17 12:31:45,571 | INFO | Registered 35 procedure tools
+2026-03-17 12:32:23,979 | INFO | Registered 35 procedure tools
+2026-03-17 12:34:47,278 | INFO | Registered 35 procedure tools
+2026-03-17 12:36:14,280 | INFO | Registered 35 procedure tools
+2026-03-17 12:36:45,629 | INFO | Registered 35 procedure tools
+2026-03-17 12:39:00,847 | INFO | Registered 35 procedure tools
+2026-03-17 12:39:15,244 | INFO | Registered 35 procedure tools
+2026-03-17 12:39:20,340 | INFO | Processing request of type ListToolsRequest
+2026-03-17 12:39:26,472 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:39:34,553 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:43:45,576 | INFO | Registered 35 procedure tools
+2026-03-17 12:44:03,282 | INFO | Registered 35 procedure tools
+2026-03-17 12:44:22,674 | INFO | Processing request of type ListToolsRequest
+2026-03-17 12:44:57,302 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:45:55,834 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:47:04,125 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:48:27,605 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:48:27,611 | INFO | Calling procedure procONE
+2026-03-17 12:48:27,711 | INFO | Calling procedure: procONE
+2026-03-17 12:48:28,017 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 12:49:04,166 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:49:04,173 | INFO | Calling procedure procTWO
+2026-03-17 12:49:04,248 | INFO | Calling procedure: procTWO
+2026-03-17 12:49:04,278 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-17 12:55:22,236 | INFO | Processing request of type CallToolRequest
+2026-03-17 12:59:56,203 | INFO | Registered 35 procedure tools
+2026-03-17 13:04:43,418 | INFO | Registered 35 procedure tools
+2026-03-17 13:04:44,175 | INFO | Registered 35 procedure tools
+2026-03-17 13:05:09,170 | INFO | Registered 35 procedure tools
+2026-03-17 13:06:17,165 | INFO | Registered 35 procedure tools
+2026-03-17 13:33:53,531 | INFO | Registered 35 procedure tools
+2026-03-17 13:55:34,761 | INFO | Registered 35 procedure tools
+2026-03-17 14:01:28,766 | INFO | Registered 35 procedure tools
+2026-03-17 14:01:46,478 | INFO | Registered 35 procedure tools
+2026-03-17 14:01:52,475 | INFO | Processing request of type ListToolsRequest
+2026-03-17 14:02:28,691 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:34:26,265 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:34:29,478 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:43:09,393 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:43:19,941 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:47:03,591 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:47:08,128 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:47:58,796 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:51:05,197 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:51:26,082 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:52:09,339 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:52:22,279 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:55:38,340 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:55:51,714 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:56:45,227 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:57:03,965 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:57:03,969 | ERROR | Procedure execution failed (proc_TWO): name 'ALLOWED_PROCS' is not defined
+2026-03-18 07:59:03,215 | INFO | Loaded 35 procedures from database
+2026-03-18 07:59:09,925 | INFO | Loaded 35 procedures from database
+2026-03-18 07:59:21,107 | INFO | Loaded 35 procedures from database
+2026-03-18 07:59:24,118 | INFO | Processing request of type ListToolsRequest
+2026-03-18 07:59:45,104 | INFO | Processing request of type CallToolRequest
+2026-03-18 07:59:45,109 | WARNING | Procedure not found: proc_TWO
+2026-03-18 07:59:45,109 | ERROR | Procedure execution failed (proc_TWO): Procedure proc_TWO not found in database
+2026-03-18 07:59:52,020 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:00:16,170 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:00:16,221 | INFO | Calling procedure: procTWO
+2026-03-18 08:00:16,261 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-18 08:01:36,640 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:07:51,886 | INFO | Loaded 35 procedures from database
+2026-03-18 08:07:59,780 | INFO | Loaded 35 procedures from database
+2026-03-18 08:08:18,287 | INFO | Loaded 35 procedures from database
+2026-03-18 08:08:25,128 | INFO | Processing request of type ListToolsRequest
+2026-03-18 08:08:32,526 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:08:55,094 | INFO | Loaded 35 procedures from database
+2026-03-18 08:08:58,450 | INFO | Loaded 35 procedures from database
+2026-03-18 08:11:20,574 | INFO | Loaded 35 procedures from database
+2026-03-18 08:11:24,294 | INFO | Processing request of type ListToolsRequest
+2026-03-18 08:11:31,091 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:11:55,565 | INFO | Processing request of type CallToolRequest
+2026-03-18 08:11:55,639 | INFO | Calling procedure: procTWO
+2026-03-18 08:11:55,647 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-18 08:12:50,575 | INFO | Processing request of type CallToolRequest
+2026-03-23 11:57:18,386 | INFO | Loaded 35 procedures from database
+2026-03-23 11:57:33,654 | INFO | Loaded 35 procedures from database
+2026-03-23 11:57:42,657 | INFO | Processing request of type ListToolsRequest
+2026-03-23 11:57:57,851 | INFO | Processing request of type CallToolRequest
+2026-03-23 11:58:20,424 | INFO | Processing request of type CallToolRequest
+2026-03-23 11:58:37,271 | INFO | Processing request of type CallToolRequest
+2026-03-23 12:01:41,177 | INFO | Processing request of type CallToolRequest
+2026-03-23 12:01:41,202 | INFO | Calling procedure: procTWO
+2026-03-23 12:01:41,207 | INFO | Warning: DeprecationWarning: Call to deprecated function stored_results. Reason: The property counterpart 'stored_results' will be added in a future release, and this method will be removed.
+2026-03-23 12:03:46,997 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:54:22,423 | INFO | Loaded 35 procedures from database
+2026-03-25 09:54:36,503 | INFO | Loaded 35 procedures from database
+2026-03-25 09:54:39,898 | INFO | Processing request of type ListResourcesRequest
+2026-03-25 09:54:46,820 | INFO | Processing request of type ListToolsRequest
+2026-03-25 09:54:49,995 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:56:09,094 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:57:38,067 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:58:13,461 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:58:23,656 | INFO | Processing request of type CallToolRequest
+2026-03-25 09:58:33,677 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:02:31,598 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:04:17,235 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:04:40,304 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:05:53,867 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:08:44,042 | INFO | Loaded 946 procedures from database
+2026-03-25 10:08:59,769 | INFO | Loaded 946 procedures from database
+2026-03-25 10:09:04,274 | INFO | Processing request of type ListToolsRequest
+2026-03-25 10:09:11,158 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:09:19,019 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:09:26,617 | INFO | Processing request of type CallToolRequest
+2026-03-25 10:09:36,151 | INFO | Processing request of type CallToolRequest
+2026-04-15 13:35:58,054 | INFO | Loaded 946 procedures from database
+2026-04-15 13:36:07,646 | INFO | Loaded 946 procedures from database
+2026-04-15 13:36:11,288 | INFO | Processing request of type ListResourcesRequest
+2026-04-15 13:36:15,633 | INFO | Processing request of type ListToolsRequest
+2026-04-15 13:36:21,781 | INFO | Processing request of type CallToolRequest
+2026-04-15 13:38:45,727 | INFO | Processing request of type CallToolRequest
+2026-04-15 13:39:27,481 | INFO | Processing request of type CallToolRequest
+2026-04-15 14:15:38,227 | INFO | Loaded 946 procedures from database
+2026-04-15 14:16:48,498 | INFO | Loaded 946 procedures from database
+2026-04-15 14:18:19,176 | INFO | Loaded 946 procedures from database
+2026-04-15 14:18:30,441 | INFO | Loaded 946 procedures from database
+2026-04-15 14:18:33,702 | INFO | Processing request of type ListToolsRequest
+2026-04-15 14:18:59,507 | INFO | Processing request of type CallToolRequest
+2026-04-15 14:19:19,802 | INFO | Loaded 946 procedures from database
+2026-04-15 14:19:22,353 | INFO | Processing request of type CallToolRequest
+2026-04-15 14:19:36,943 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:24:01,789 | INFO | Loaded 946 procedures from database
+2026-04-16 04:24:24,669 | INFO | Loaded 946 procedures from database
+2026-04-16 04:24:28,515 | INFO | Processing request of type ListToolsRequest
+2026-04-16 04:25:15,974 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:27:35,204 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:28:33,487 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:31:31,698 | INFO | Loaded 946 procedures from database
+2026-04-16 04:31:58,858 | INFO | Loaded 946 procedures from database
+2026-04-16 04:32:01,167 | INFO | Loaded 946 procedures from database
+2026-04-16 04:32:50,937 | INFO | Loaded 946 procedures from database
+2026-04-16 04:35:06,138 | INFO | Loaded 946 procedures from database
+2026-04-16 04:35:12,149 | INFO | Processing request of type ListToolsRequest
+2026-04-16 04:37:33,542 | INFO | Loaded 946 procedures from database
+2026-04-16 04:38:00,188 | INFO | Loaded 946 procedures from database
+2026-04-16 04:38:29,109 | INFO | Loaded 946 procedures from database
+2026-04-16 04:38:32,364 | INFO | Processing request of type ListToolsRequest
+2026-04-16 04:39:44,487 | INFO | Loaded 946 procedures from database
+2026-04-16 04:40:05,226 | INFO | Loaded 946 procedures from database
+2026-04-16 04:41:54,390 | INFO | Loaded 946 procedures from database
+2026-04-16 04:42:11,621 | INFO | Loaded 946 procedures from database
+2026-04-16 04:42:18,222 | INFO | Processing request of type ListToolsRequest
+2026-04-16 04:42:42,679 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:49:36,553 | INFO | Loaded 946 procedures from database
+2026-04-16 04:49:36,457 | INFO | Loaded 946 procedures from database
+2026-04-16 04:49:44,184 | INFO | Loaded 946 procedures from database
+2026-04-16 04:49:59,370 | INFO | Loaded 946 procedures from database
+2026-04-16 04:50:05,548 | INFO | Processing request of type ListToolsRequest
+2026-04-16 04:50:09,663 | INFO | Processing request of type CallToolRequest
+2026-04-16 04:50:26,335 | INFO | Processing request of type CallToolRequest
+2026-04-16 07:39:25,859 | INFO | Loaded 946 procedures from database
+2026-04-16 07:40:01,016 | INFO | Loaded 946 procedures from database
+2026-04-16 07:41:16,993 | INFO | Loaded 946 procedures from database
+2026-04-16 07:41:34,292 | INFO | Loaded 946 procedures from database
+2026-04-16 07:41:38,091 | INFO | Processing request of type ListToolsRequest
+2026-04-16 07:42:38,264 | INFO | Processing request of type CallToolRequest
+2026-04-16 07:42:56,476 | INFO | Processing request of type CallToolRequest
+2026-04-21 16:59:51,177 | INFO | Loaded 0 procedures from database
+2026-04-21 16:59:51,185 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 16:59:51,185 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 16:59:51,185 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 17:00:04,855 | INFO | Loaded 0 procedures from database
+2026-04-21 17:00:04,861 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 17:00:04,861 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 17:00:04,861 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 17:04:49,160 | INFO | Loaded 0 procedures from database
+2026-04-21 17:04:49,166 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 17:04:49,166 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 17:04:49,166 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 17:05:39,951 | INFO | Loaded 0 procedures from database
+2026-04-21 17:05:39,958 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 17:05:39,958 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 17:05:39,958 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 17:05:45,004 | INFO | Loaded 0 procedures from database
+2026-04-21 17:05:45,010 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 17:05:45,010 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 17:05:45,010 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 17:06:11,475 | INFO | Loaded 0 procedures from database
+2026-04-21 17:06:11,482 | ERROR | The server object /home/vegayan/workspace/mcp_demo/main.py:mcp is of type <class 'fastmcp.server.server.FastMCP'> (expecting <class 'mcp.server.fastmcp.server.FastMCP'>).
+2026-04-21 17:06:11,482 | ERROR | Ignoring object '/home/vegayan/workspace/mcp_demo/main.py:mcp' as it's not a valid server object
+2026-04-21 17:06:11,482 | ERROR | No server object found in /home/vegayan/workspace/mcp_demo/main.py. Please either:
+1. Use a standard variable name (mcp, server, or app)
+2. Specify the object name with file:object syntax3. If the server creates the FastMCP object within main()    or another function, refactor the FastMCP object to be a    global variable named mcp, server, or app.
+2026-04-21 18:16:36,179 | INFO | Loaded 0 procedures from database
+2026-04-21 18:16:49,361 | INFO | Loaded 0 procedures from database
+2026-04-21 18:16:54,601 | INFO | Processing request of type ListToolsRequest
+2026-04-21 18:26:35,361 | INFO | Loaded 0 procedures from database
+2026-04-21 18:27:15,553 | INFO | Loaded 0 procedures from database
+2026-04-21 18:27:27,316 | INFO | Loaded 0 procedures from database
+2026-04-21 18:29:20,227 | INFO | Loaded 0 procedures from database
+2026-04-21 18:29:32,323 | INFO | Loaded 0 procedures from database
+2026-04-21 18:30:02,347 | INFO | Loaded 0 procedures from database
+2026-04-21 18:30:18,902 | INFO | Loaded 0 procedures from database
+2026-04-22 09:07:31,734 | INFO | Loaded 0 procedures from database
+2026-04-22 09:07:31,949 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-04-22 09:27:02,829 | INFO | Loaded 0 procedures from database
+2026-04-22 09:40:41,802 | INFO | Loaded 0 procedures from database
+2026-04-22 09:45:26,383 | INFO | Loaded 0 procedures from database
+2026-04-22 09:47:55,693 | INFO | Loaded 0 procedures from database
+2026-04-22 09:47:55,737 | INFO | StreamableHTTP session manager started
+2026-04-22 09:48:33,568 | INFO | StreamableHTTP session manager shutting down
+2026-04-22 09:48:36,036 | INFO | Loaded 0 procedures from database
+2026-04-22 09:48:36,081 | INFO | StreamableHTTP session manager started
+2026-04-22 09:49:00,139 | INFO | StreamableHTTP session manager shutting down
+2026-04-22 09:49:02,260 | INFO | Loaded 0 procedures from database
+2026-04-22 09:49:11,162 | INFO | Loaded 0 procedures from database
+2026-04-22 09:51:13,674 | INFO | Loaded 0 procedures from database
+2026-04-22 09:51:13,722 | INFO | StreamableHTTP session manager started
+2026-04-22 09:58:59,821 | INFO | StreamableHTTP session manager shutting down
+2026-04-22 09:59:01,982 | INFO | Loaded 0 procedures from database
+2026-04-22 09:59:02,025 | INFO | StreamableHTTP session manager started
+2026-04-22 09:59:27,411 | INFO | Created new transport with session ID: 9779ba8be1da4fc7bfad0a3d4ec86d3b
+2026-04-22 09:59:27,465 | INFO | Processing request of type ListToolsRequest
+2026-04-22 09:59:27,472 | INFO | Terminating session: 9779ba8be1da4fc7bfad0a3d4ec86d3b
+2026-04-22 10:52:00,523 | INFO | Created new transport with session ID: 463d32c8eb4e49dfb42a7836d6a68d4d
+2026-04-22 10:52:00,557 | INFO | Processing request of type ListToolsRequest
+2026-04-22 10:52:00,565 | INFO | Terminating session: 463d32c8eb4e49dfb42a7836d6a68d4d
+2026-04-22 10:53:58,755 | INFO | Created new transport with session ID: dae5f52742784b71b6ecaeeb14dd8d5a
+2026-04-22 10:53:58,779 | INFO | Processing request of type ListToolsRequest
+2026-04-22 10:53:58,789 | INFO | Terminating session: dae5f52742784b71b6ecaeeb14dd8d5a
+2026-04-22 11:02:50,165 | INFO | Created new transport with session ID: 7bdb7119ecb04a6897bd2796bbd82a25
+2026-04-22 11:02:50,199 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:02:50,209 | INFO | Terminating session: 7bdb7119ecb04a6897bd2796bbd82a25
+2026-04-22 11:03:33,237 | INFO | Created new transport with session ID: 76bcf44d665844d88468b95891af2b95
+2026-04-22 11:03:33,341 | INFO | Processing request of type CallToolRequest
+2026-04-22 11:03:33,660 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:03:33,669 | INFO | Terminating session: 76bcf44d665844d88468b95891af2b95
+2026-04-22 11:11:31,424 | INFO | Created new transport with session ID: 3d743a1ccff447de825154be31314357
+2026-04-22 11:11:31,460 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:11:31,472 | INFO | Terminating session: 3d743a1ccff447de825154be31314357
+2026-04-22 11:11:40,228 | INFO | Created new transport with session ID: 14243a51c76e4319acc07d4cafc3bc9f
+2026-04-22 11:11:40,250 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:11:40,259 | INFO | Terminating session: 14243a51c76e4319acc07d4cafc3bc9f
+2026-04-22 11:12:44,124 | INFO | Created new transport with session ID: 761ce16aaadb4251ba036d71beb0912d
+2026-04-22 11:12:44,150 | INFO | Processing request of type CallToolRequest
+2026-04-22 11:12:44,172 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:12:44,178 | INFO | Terminating session: 761ce16aaadb4251ba036d71beb0912d
+2026-04-22 11:14:10,323 | INFO | Created new transport with session ID: 152a1278bdbc4508897d991adc9b3a4d
+2026-04-22 11:14:10,339 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:14:10,346 | INFO | Terminating session: 152a1278bdbc4508897d991adc9b3a4d
+2026-04-22 11:14:33,005 | INFO | Created new transport with session ID: fbd1e21e20f24e2b92ca2c640c03a732
+2026-04-22 11:14:33,025 | INFO | Processing request of type CallToolRequest
+2026-04-22 11:14:33,079 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:14:33,088 | INFO | Terminating session: fbd1e21e20f24e2b92ca2c640c03a732
+2026-04-22 11:16:06,678 | INFO | Created new transport with session ID: 593aa2d1b9474ad59615e64c4fd07293
+2026-04-22 11:16:06,711 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:16:06,717 | INFO | Terminating session: 593aa2d1b9474ad59615e64c4fd07293
+2026-04-22 11:18:49,156 | INFO | Created new transport with session ID: 01a8398a19044ba8a842ca8b4537f804
+2026-04-22 11:18:49,185 | INFO | Processing request of type CallToolRequest
+2026-04-22 11:18:49,265 | INFO | Processing request of type ListToolsRequest
+2026-04-22 11:18:49,273 | INFO | Terminating session: 01a8398a19044ba8a842ca8b4537f804
+2026-04-22 11:33:38,017 | INFO | StreamableHTTP session manager shutting down
+2026-04-22 16:07:17,580 | INFO | Loaded 0 procedures from database
+2026-04-22 16:07:17,678 | INFO | StreamableHTTP session manager started
+2026-04-22 16:14:56,902 | INFO | Created new transport with session ID: 131ad46143b240ada92ba179c9085549
+2026-04-22 16:14:56,981 | INFO | Processing request of type ListToolsRequest
+2026-04-22 16:14:56,993 | INFO | Terminating session: 131ad46143b240ada92ba179c9085549
+2026-04-22 16:15:50,923 | INFO | Created new transport with session ID: 22fcf646317a48c9b8dfa72ef243b57c
+2026-04-22 16:15:51,020 | INFO | Processing request of type CallToolRequest
+2026-04-22 16:15:51,374 | INFO | Processing request of type ListToolsRequest
+2026-04-22 16:15:51,387 | INFO | Terminating session: 22fcf646317a48c9b8dfa72ef243b57c
+2026-04-22 16:17:15,632 | INFO | Created new transport with session ID: 831e81452d0f4289ae2574c55dd9e436
+2026-04-22 16:17:15,664 | INFO | Processing request of type CallToolRequest
+2026-04-22 16:17:15,688 | INFO | Processing request of type ListToolsRequest
+2026-04-22 16:17:15,695 | INFO | Terminating session: 831e81452d0f4289ae2574c55dd9e436
+2026-04-22 16:18:05,189 | INFO | Created new transport with session ID: c9f65c58c7b34be58c3af5dbf851639b
+2026-04-22 16:18:05,234 | INFO | Processing request of type CallToolRequest
+2026-04-22 16:18:05,273 | INFO | Processing request of type ListToolsRequest
+2026-04-22 16:18:05,282 | INFO | Terminating session: c9f65c58c7b34be58c3af5dbf851639b
+2026-04-22 16:22:55,813 | INFO | StreamableHTTP session manager shutting down
