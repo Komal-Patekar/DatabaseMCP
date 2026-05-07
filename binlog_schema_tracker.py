@@ -5,20 +5,21 @@ import tempfile
 from filelock import FileLock
 import mysql.connector
 from db import get_connection
-from config import DB_CONFIG
+from logger import logger
+import time
 
 from pymysqlreplication import BinLogStreamReader
 from pymysqlreplication.event import QueryEvent
 
 
-SCHEMA_FILE = "schema.json"
-LOCK_FILE = "schema.json.lock"
+SCHEMA_FILE = "schema_store/schema.json"
+LOCK_FILE = "schema_store/schema.json.lock"
 
 MYSQL_SETTINGS = {
-    "host": DB_CONFIG["host"],
-    "port": DB_CONFIG["port"],
-    "user": DB_CONFIG["user"],
-    "passwd": DB_CONFIG["password"]
+    "host": "localhost",
+    "port": 3306,
+    "user": "mcp_user",
+    "passwd": "AirtelAI@#1"
 }
 
 EXCLUDED_DBS = {
@@ -104,6 +105,7 @@ def update_schema_file(schema):
     lock = FileLock(LOCK_FILE)
 
     with lock:
+        time.sleep(20)
         atomic_write(schema, SCHEMA_FILE)
 
 
@@ -135,7 +137,7 @@ def is_schema_query(query):
 
 def start_listener():
 
-    print("Starting MySQL binlog schema tracker...")
+    logger.info("Starting MySQL binlog schema tracker...")
 
     last_hash = load_existing_hash()
 
@@ -157,9 +159,7 @@ def start_listener():
 
         if is_schema_query(query):
 
-            print(f"\nSchema change detected:")
-            print(f"Database : {schema}")
-            print(f"Query    : {query}")
+            logger.info(f"Schema change detected | Database={schema} | Query={query}")
 
             try:
 
@@ -173,13 +173,13 @@ def start_listener():
 
                     last_hash = current_hash
 
-                    print("Schema file updated.")
+                    logger.info("Schema file updated successfully")
 
                 else:
-                    print("No actual schema difference.")
+                    logger.info("No actual schema difference detected")
 
             except Exception as e:
-                print(f"Schema update failed : {e}")
+                logger.error(f"Schema update failed : {e}")
 
     stream.close()
 
